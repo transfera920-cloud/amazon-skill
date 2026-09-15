@@ -1,0 +1,8 @@
+{
+  "name": "登山體能與技巧｜亞馬遜國家山岳協會",
+  "description": "學習登山體能、步行技巧、登山杖、負重管理、高山環境適應與團隊行進，從五個能力面向判讀當下狀態，在能力範圍內完成每一次安全旅程。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

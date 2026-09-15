@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amazon-edu07.ai.studio/sitemap.xml
