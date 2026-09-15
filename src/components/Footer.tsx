@@ -12,7 +12,13 @@ export const Footer: React.FC = () => {
             </div>
             <div>
               <div className="text-sm font-semibold text-slate-200">
-                亞馬遜國家山岳協會 ／ 登山教育平台
+                <a
+                  href="https://amazon-hike.com/intro"
+                  className="hover:text-emerald-400 transition-colors"
+                >
+                  亞馬遜國家山岳協會
+                </a>{" "}
+                ／ 登山教育平台
               </div>
               <div className="text-xs text-slate-400 font-mono">
                 Chapter 07 · 體能與技巧
