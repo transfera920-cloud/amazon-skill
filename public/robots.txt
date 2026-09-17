@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://55faf4a9-amazon-skill.yy661003.workers.dev/sitemap.xml
+Sitemap: https://chapter07.amazon-hile.com/sitemap.xml

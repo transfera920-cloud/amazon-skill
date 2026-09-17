@@ -20,7 +20,7 @@ export const Navbar: React.FC = () => {
         <div className="flex items-center justify-between h-16">
           {/* Brand Logo & Identifier */}
           <a
-            href="#top"
+            href="https://amazon-hike.com/"
             className="flex items-center space-x-3 group text-slate-100 hover:text-white transition-colors py-2"
             aria-label="亞馬遜國家山岳協會 首頁"
           >
