@@ -27,14 +27,9 @@ export const Navbar: React.FC = () => {
             <div className="w-9 h-9 rounded-lg bg-emerald-950/70 border border-emerald-500/30 flex items-center justify-center text-emerald-400 group-hover:border-emerald-400 transition-colors">
               <Compass className="w-5 h-5" />
             </div>
-            <div className="flex flex-col">
-              <span className="text-xs tracking-widest text-emerald-400/90 font-medium">
-                亞馬遜國家山岳協會
-              </span>
-              <span className="text-sm font-semibold text-slate-200 tracking-wider">
-                登山教育平台 · 第七章
-              </span>
-            </div>
+            <span className="text-sm font-semibold text-slate-100 tracking-wider group-hover:text-emerald-400 transition-colors">
+              亞馬遜國家山岳協會
+            </span>
           </a>
 
           {/* Desktop Nav Links */}

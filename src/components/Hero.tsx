@@ -11,14 +11,6 @@ export const Hero: React.FC = () => {
       </div>
 
       <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-20 sm:pt-24 sm:pb-28">
-        {/* Badge & Code */}
-        <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-md bg-emerald-950/60 border border-emerald-500/30 text-emerald-300 text-xs tracking-widest uppercase mb-6 font-mono">
-          <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-          <span>SAFE MOUNTAIN TRAVEL / 07</span>
-          <span className="text-slate-500">|</span>
-          <span>07能力判讀簿</span>
-        </div>
-
         {/* Sole H1 Header */}
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white leading-tight mb-6">
           體能與技巧
