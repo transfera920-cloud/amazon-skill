@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chapter07.amazon-hike.com/sitemap.xml
+Sitemap: https://amazon-hike.com/chapter07/sitemap.xml

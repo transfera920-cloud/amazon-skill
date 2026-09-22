@@ -13,7 +13,7 @@ export const Hero: React.FC = () => {
       <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-20 sm:pt-24 sm:pb-28">
         {/* Sole H1 Header */}
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white leading-tight mb-6">
-          體能與技巧
+          登山體能與技巧
         </h1>
 
         {/* Subtitle */}
